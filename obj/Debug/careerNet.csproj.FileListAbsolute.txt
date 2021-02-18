@@ -1,0 +1,5 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\careerNet\bin\Debug\careerNet.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\careerNet\bin\Debug\careerNet.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\careerNet\bin\Debug\careerNet.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\careerNet\obj\Debug\careerNet.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\careerNet\obj\Debug\careerNet.pdb
